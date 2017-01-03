@@ -1,3 +1,5 @@
+Check this tutorial: http://quinlanlab.org/tutorials/bedtools/bedtools.html
+
 1.	H3K4me3 and H3K27ac intersects:
   * Find genomic coordinates that have both H3K4me3 and H3K27ac modifications. 
   * What percentage of H3K27ac marks has overlapping H3K4me3? Plot a pie-chart demonstrating your finding.
